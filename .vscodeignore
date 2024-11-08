@@ -1,0 +1,12 @@
+.vscode/**
+.vscode-test/**
+test/**
+.gitignore
+.git/**
+.github/**
+images/**
+.yarnrc
+**/jsconfig.json
+**/*.map
+**/.eslintrc.json
+**/.vscode-test.*
