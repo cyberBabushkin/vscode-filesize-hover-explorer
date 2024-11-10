@@ -8,7 +8,7 @@ See file sizes instantly by hovering over files in VS Code's Explorer. No more r
 - Works automatically - no configuration needed
 - Super lightweight — no dependencies, just 50 lines of code
 
-![Filesize Hover Explorer in Action](images/showcase.gif)
+![Filesize Hover Explorer in Action](./images/showcase.gif)
 
 ## Installation
 
