@@ -14,7 +14,7 @@ See file sizes instantly by hovering over files in VS Code's Explorer. No more r
 
 ### Marketplace
 
-In VS Code, open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`), type `Install Extensions` and hit Enter. In the search field, type `Filesize Hover Explorer`. Install the extension.
+Go to the extension [homepage](https://marketplace.visualstudio.com/items?itemName=cyberBabushkin.filesize-hover-explorer) and install the extension. Alternatively, in VS Code, open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`), type `Install Extensions` and hit Enter. In the search field, type `Filesize Hover Explorer`. Install the extension.
 
 ### Manual Installation
 
